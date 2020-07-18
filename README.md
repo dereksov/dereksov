@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on visualizing suicide rates across different generations to explore current mental health issues.
+
 🌱 I’m currently learning Tableau to achieve the above.
 
 <!--
