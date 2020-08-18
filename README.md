@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on visualizing suicide rates across different generations to explore current mental health issues. I'm also working on extracting information from Riot Game's API for a machine learning project.
+🔭 I’m currently working on extracting information from Riot Game's API for a machine learning project.
 
-🌱 I’m currently learning Tableau and REST API to achieve the above. 
+🌱 I’m currently learning REST API and pipeline to achieve the above. 
 
 <!--
 **dereksov/dereksov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
