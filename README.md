@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Graduating this week and figuring out what's next! 
+🔭Developing projects on subjects I'm curious about (NLP) and learning broadly used languages.systems (Hadoop/AWS).
 
 <!--
 **dereksov/dereksov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
