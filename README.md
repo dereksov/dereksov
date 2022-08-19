@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭Working on a personal NLP project.
+🔭Working on a personal NLP project to improve my skills.
 
 <!--
 **dereksov/dereksov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
